@@ -1,8 +1,5 @@
 version: 2.1
 
-orbs:
-  stoplight: nebulab/stoplight@6.0.0
-
 executors:
   base:
     working_directory: &workdir ~/solidus
